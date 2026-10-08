@@ -1,6 +1,6 @@
 {
   "dealership": "Denham Ford Bc Ltd",
-  "generated_at": "2026-09-26T06:22:31",
+  "generated_at": "2026-10-08T14:36:58",
   "vehicle_count": 60,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2023 Ford Bronco 4 Door Outerbanks High Package!",
       "vin": "1FMEE5DP0PLB48794",
       "stock": "T25334B",
+      "trim": "4 Door Outerbanks High Package",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/4cf5088d1900.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-Bronco-4-Door/1391295",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-Bronco-4-Door/1391295?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,13 +19,16 @@
       "odometer_km": 37743,
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco 4 Door Outerbanks High Package!",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape Platinum AWD w/ Tech Package + 3.99% FINANCING AVAILABLE!",
       "vin": "1FMCU9JZ9PUA19616",
       "stock": "P3148",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/5acf36bcf55e.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-Escape-Platinum-AWD/1515730",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-Escape-Platinum-AWD/1515730?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -34,13 +38,16 @@
       "odometer_km": 44961,
       "year": 2023,
       "make": "Ford",
-      "model": "Escape Platinum AWD w/ Tech Package + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape Plug In Hybrid",
       "vin": "1FMCU0E12PUA64073",
       "stock": "P2898",
+      "trim": "Plug In Hybrid",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/ddb117cf3108.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-Escape/1084955",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-Escape/1084955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,13 +57,16 @@
       "odometer_km": 31499,
       "year": 2023,
       "make": "Ford",
-      "model": "Escape Plug In Hybrid",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 XLT Supercrew 4x4 w/ Sport Appearance Package!",
       "vin": "1FTEW1EP2PKE96417",
       "stock": "P3198",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/544cf312634b.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-F-150-XLT-Supercrew-4x4/1568554",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2023-Ford-F-150-XLT-Supercrew-4x4/1568554?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -66,13 +76,16 @@
       "odometer_km": 37184,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 XLT Supercrew 4x4 w/ Sport Appearance Package!",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport Outer Banks + 3.99% FINANCING AVAILABLE!",
       "vin": "3FMCR9C66RRE67763",
       "stock": "T26039A",
+      "trim": "Outer Banks + 3.99% FINANCING AVAILABLE",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/7e6331566f5d.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Bronco-Sport/1463566",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Bronco-Sport/1463566?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -82,13 +95,16 @@
       "odometer_km": 43122,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport Big Bend + 3.99% FINANCING AVAILABLE!",
       "vin": "3FMCR9B68RRF12445",
       "stock": "P3117",
+      "trim": "Big Bend + 3.99% FINANCING AVAILABLE",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/67bf7ae864af.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Bronco-Sport/1466616",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Bronco-Sport/1466616?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -98,13 +114,16 @@
       "odometer_km": 34397,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Badlands 4x4 w/ Manual Transmission - Upgraded Duratracs & M",
       "vin": "1FMEE9BH9RLA09527",
       "stock": "P3093",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/3886d1fde3b3.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Bronco/1435322",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Bronco/1435322?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -114,13 +133,16 @@
       "odometer_km": 31398,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Badlands 4x4 w/ Manual Transmission - Upgraded Duratracs & M",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Edge ST Line AWD",
       "vin": "2FMPK4J90RBA25923",
       "stock": "P3206",
+      "trim": "ST Line",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/d9832d3fa85e.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Edge/1598938",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Edge/1598938?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -130,13 +152,16 @@
       "odometer_km": 31988,
       "year": 2024,
       "make": "Ford",
-      "model": "Edge ST Line AWD",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape Platinum AWD + 3.99% FINANCING AVAILABLE!",
       "vin": "1FMCU9JA3RUA51670",
       "stock": "P3096",
+      "trim": "Platinum + 3.99% FINANCING AVAILABLE",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/f6b17e321d34.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Escape/1437771",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Escape/1437771?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -146,13 +171,16 @@
       "odometer_km": 56236,
       "year": 2024,
       "make": "Ford",
-      "model": "Escape Platinum AWD + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Expedition Limited 4x4",
       "vin": "1FMJU2A80REA42687",
       "stock": "P3128",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/ae1775476600.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Expedition/1479983",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-Expedition/1479983?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -162,13 +190,16 @@
       "odometer_km": 97854,
       "year": 2024,
       "make": "Ford",
-      "model": "Expedition Limited 4x4",
-      "condition": "used"
+      "model": "Expedition",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 King Ranch Supercrew 4x4 Hybrid! + 3.99% FINANCING AVAILABLE!",
       "vin": "1FTFW6LD1RFA24425",
       "stock": "P3204",
+      "trim": "King Ranch Hybrid",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/7a4b3f074876.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-King-Ranch-Supercrew-4x4/1593321",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-King-Ranch-Supercrew-4x4/1593321?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -178,13 +209,16 @@
       "odometer_km": 66598,
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 King Ranch Supercrew 4x4 Hybrid! + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 Tremor Supercrew 4x4 + 3.99% FINANCING AVAILABLE!",
       "vin": "1FTFW4L88RFA78814",
       "stock": "T26304A",
+      "trim": "Tremor + 3.99% FINANCING AVAILABLE",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/16b45e42e11b.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-Tremor-Supercrew-4x4/1582695",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-Tremor-Supercrew-4x4/1582695?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -194,13 +228,16 @@
       "odometer_km": 40039,
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 Tremor Supercrew 4x4 + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 XLT Supercrew 4x4 w/ Black Appearance Package! + 3.99% FINANCING AVAILABLE!",
       "vin": "1FTEW3LPXRFB09848",
       "stock": "P3157",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/644f35533098.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-XLT-Supercrew-4x4/1527233",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-XLT-Supercrew-4x4/1527233?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -210,13 +247,16 @@
       "odometer_km": 24342,
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 XLT Supercrew 4x4 w/ Black Appearance Package! + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 XLT Supercrew 4x4 w/ Black Appearance Package! + 3.99% FINANCING AVAILABLE!",
       "vin": "1FTFW3L88RKE35393",
       "stock": "P3162",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/67b061feab65.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-XLT-Supercrew-4x4/1531691",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-XLT-Supercrew-4x4/1531691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -226,13 +266,16 @@
       "odometer_km": 41035,
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 XLT Supercrew 4x4 w/ Black Appearance Package! + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 XLT Supercrew 4x4 w/ Black Appearance Package",
       "vin": "1FTEW3LP9RFA07795",
       "stock": "P3180",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/9bc38dce5aa0.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-XLT-Supercrew-4x4/1546636",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Ford-F-150-XLT-Supercrew-4x4/1546636?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -242,13 +285,16 @@
       "odometer_km": 36534,
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 XLT Supercrew 4x4 w/ Black Appearance Package",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 LE AWD",
       "vin": "2T3B1RFV4RC415488",
       "stock": "P3115",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/734e8dd0bf42.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2024-Toyota-RAV4/1465962",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2024-Toyota-RAV4/1465962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -258,13 +304,16 @@
       "odometer_km": 54861,
       "year": 2024,
       "make": "Toyota",
-      "model": "RAV4 LE AWD",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport Big Bend 4x4 w/ Black Appearance Package! + 3.99% FINANCING",
       "vin": "3FMCR9BN7SRF20324",
       "stock": "T26294A",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/203d8e521b4f.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Bronco-Sport/1613741",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Bronco-Sport/1613741?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,13 +323,16 @@
       "odometer_km": 11412,
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4 w/ Black Appearance Package! + 3.99% FINANCING",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ST Line AWD w/ Tech Package + 3.99% FINANCING AVAILABLE!",
       "vin": "1FMCU9MN1SUA66429",
       "stock": "T26085A",
+      "trim": "ST Line",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/04e881e5058f.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Escape-ST-Line-AWD/1531013",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Escape-ST-Line-AWD/1531013?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -290,13 +342,16 @@
       "odometer_km": 16525,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape ST Line AWD w/ Tech Package + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape Platinum AWD + 3.99% FINANCING AVAILABLE!",
       "vin": "1FMCU9JA9SUB24630",
       "stock": "P3183",
+      "trim": "Platinum + 3.99% FINANCING AVAILABLE",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/22787c6f118a.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Escape/1549243",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Escape/1549243?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -306,13 +361,16 @@
       "odometer_km": 31858,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape Platinum AWD + 3.99% FINANCING AVAILABLE!",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape Platinum AWD",
       "vin": "1FMCU9JA4SUB05497",
       "stock": "P3187",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/b53cd840bf06.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Escape/1552852",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Escape/1552852?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -322,13 +380,16 @@
       "odometer_km": 54200,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape Platinum AWD",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer Active AWD w/ Comfort Package!",
       "vin": "1FMUK8DH2SGA22856",
       "stock": "T26022A",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/91406bffdca6.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer-Active-AWD/1523248",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer-Active-AWD/1523248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -338,13 +399,16 @@
       "odometer_km": 29666,
       "year": 2025,
       "make": "Ford",
-      "model": "Explorer Active AWD w/ Comfort Package!",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer ST Line AWD",
       "vin": "1FMUK8KH6SGA03195",
       "stock": "T26296A",
+      "trim": "ST Line",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/c58dd757c53a.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer/1570393",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer/1570393?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -354,13 +418,16 @@
       "odometer_km": 58892,
       "year": 2025,
       "make": "Ford",
-      "model": "Explorer ST Line AWD",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer Active AWD",
       "vin": "1FMUK8DH5SGB19663",
       "stock": "T26070A",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/12aafe24e529.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer/1584626",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer/1584626?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -370,13 +437,16 @@
       "odometer_km": 9296,
       "year": 2025,
       "make": "Ford",
-      "model": "Explorer Active AWD",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer ST AWD",
       "vin": "1FMWK8GC6SGA53374",
       "stock": "T26334A",
+      "trim": "ST",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/8a570b588a70.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer/1593327",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Explorer/1593327?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -386,13 +456,16 @@
       "odometer_km": 55296,
       "year": 2025,
       "make": "Ford",
-      "model": "Explorer ST AWD",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 Lariat Supercrew 4x4 w/ Black Appearance Package!",
       "vin": "1FTFW5L83SKE12783",
       "stock": "T26317A",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/54878e41f4ae.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-F-150-Lariat-Supercrew-4x4/1563627",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-F-150-Lariat-Supercrew-4x4/1563627?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -402,13 +475,16 @@
       "odometer_km": 47011,
       "year": 2025,
       "make": "Ford",
-      "model": "F-150 Lariat Supercrew 4x4 w/ Black Appearance Package!",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Maverick XLT AWD",
       "vin": "3FTTW8JA8SRA23076",
       "stock": "P3172",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/7c531206b3aa.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Maverick/1541577",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Ford-Maverick/1541577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -418,13 +494,16 @@
       "odometer_km": 11856,
       "year": 2025,
       "make": "Ford",
-      "model": "Maverick XLT AWD",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson Preferred AWD",
       "vin": "5NMJBCDE5SH485342",
       "stock": "P3116",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/bb62a49c2bb7.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Hyundai-Tucson/1465963",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Hyundai-Tucson/1465963?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -434,13 +513,16 @@
       "odometer_km": 40901,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Tucson Preferred AWD",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos EX AWD",
       "vin": "KNDEUCAA3S7760579",
       "stock": "P3186",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/624897fa4cd9.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Kia-Seltos/1552853",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Kia-Seltos/1552853?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -450,13 +532,16 @@
       "odometer_km": 39475,
       "year": 2025,
       "make": "Kia",
-      "model": "Seltos EX AWD",
-      "condition": "used"
+      "model": "Seltos",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta Sedan Highline",
       "vin": "3VWGX7BU5SM024200",
       "stock": "T26139A",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/f7241a097e99.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2025-Volkswagen-Jetta-Sedan/1531012",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2025-Volkswagen-Jetta-Sedan/1531012?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -466,13 +551,16 @@
       "odometer_km": 31935,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Jetta Sedan Highline",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Lariat Supercrew 4x4 w/ Black Appearance Package + 3.99% FINANCING AVAILABLE!!",
       "vin": "1FTFW5L84TKE25608",
       "stock": "P3197",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/bea9fa491c81.html",
       "source_url": "https://www.denhamfordbc.com/inventory/Used-2026-Ford-F-150-Lariat-Supercrew-4x4/1568553",
       "dealer_url": "https://www.denhamfordbc.com/inventory/Used-2026-Ford-F-150-Lariat-Supercrew-4x4/1568553?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -482,13 +570,16 @@
       "odometer_km": 5367,
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Lariat Supercrew 4x4 w/ Black Appearance Package + 3.99% FINANCING AVAILABLE!!",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4 w/ Tech Package!",
       "vin": "3FMCR9CN4TRE20035",
       "stock": "DT26156",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/e0c67df3c93a.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1496042",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1496042?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -497,13 +588,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4 w/ Tech Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4 w/ Tech Package!",
       "vin": "3FMCR9CN1TRE19201",
       "stock": "DT26172",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/84b77797c45f.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1502711",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1502711?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,13 +606,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4 w/ Tech Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Badlands 4x4 w/ Tech Package!",
       "vin": "3FMCR9DA9TRE37537",
       "stock": "DT26236",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/58f770ef17b6.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1518616",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1518616?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,13 +624,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Badlands 4x4 w/ Tech Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Badlands 4x4",
       "vin": "3FMCR9DA3TRE51112",
       "stock": "DT26247",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/9112f5e56bbf.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1523256",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1523256?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -542,13 +642,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Badlands 4x4",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Badlands 4x4",
       "vin": "3FMCR9DA3TRE70002",
       "stock": "DT26299",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/fb7d7a872a16.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1544201",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1544201?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -557,13 +660,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Badlands 4x4",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Bronze Package!",
       "vin": "3FMCR9BN3TRE69356",
       "stock": "DT26311",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/e133ac3e2d09.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1549807",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1549807?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -572,13 +678,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4 w/ Bronze Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4 w/ Tech Package!",
       "vin": "3FMCR9CN5TRE86416",
       "stock": "DT26351",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/6e919e0236aa.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1567510",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1567510?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -587,13 +696,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4 w/ Tech Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Black Diamond Package!",
       "vin": "3FMCR9BN9TRF01842",
       "stock": "DT26375",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/7f386a0393b8.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1570386",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1570386?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -602,13 +714,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4 w/ Black Diamond Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Badlands 4x4 w/ Tech Package!",
       "vin": "3FMCR9DA5TRE84838",
       "stock": "DT26348",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/ecaf07ae2347.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1570391",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1570391?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -617,13 +732,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Badlands 4x4 w/ Tech Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Convenience Package!",
       "vin": "3FMCR9BN4TRE87557",
       "stock": "DT26366",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/c47a951b9640.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1570401",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1570401?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -632,13 +750,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4 w/ Convenience Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Badlands 4x4 w/ Sasquatch Package!",
       "vin": "3FMCR9DA7TRE84968",
       "stock": "DT26349",
+      "trim": "Badlands",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/7f7101546a87.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1573579",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1573579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -647,13 +768,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Badlands 4x4 w/ Sasquatch Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Black Diamond Package!",
       "vin": "3FMCR9BN6TRE87320",
       "stock": "DT26364",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/6433954ec5e5.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1578024",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1578024?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -662,13 +786,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4 w/ Black Diamond Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4 w/ Tech Package!",
       "vin": "3FMCR9CN2TRF00367",
       "stock": "DT26381",
+      "trim": "Outer Banks",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/452d4a1bc8c1.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1584625",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1584625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -677,13 +804,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4 w/ Tech Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Black Diamond Package!",
       "vin": "3FMCR9BN5TRE96252",
       "stock": "DT26399",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/74bef0859798.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1591598",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1591598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -692,13 +822,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4 w/ Black Diamond Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Convenience Package!",
       "vin": "3FMCR9BN4TRF12926",
       "stock": "DT26411",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/99a0460ba568.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1613742",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco-Sport/1613742?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -707,13 +840,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4 w/ Convenience Package!",
-      "condition": "unknown"
+      "model": "Bronco Sport",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bend 4x4 w/ Black Diamond Package!",
       "vin": "1FMEE7BH2TLA60394",
       "stock": "DT26148",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/19f838c0bf30.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1491154",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1491154?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -722,13 +858,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bend 4x4 w/ Black Diamond Package!",
-      "condition": "unknown"
+      "model": "Bronco",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bend 4x4 w/ Manual Transmission!",
       "vin": "1FMDE7BH8TLA57740",
       "stock": "DT26174",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/8cdb6f41d618.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1502685",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1502685?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -737,13 +876,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bend 4x4 w/ Manual Transmission!",
-      "condition": "unknown"
+      "model": "Bronco",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bend 4x4 w/ Black Diamond Package!",
       "vin": "1FMEE7BH3TLA87359",
       "stock": "DT26260",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/e8287cf403fd.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1527239",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1527239?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -752,13 +894,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bend 4x4 w/ Black Diamond Package!",
-      "condition": "unknown"
+      "model": "Bronco",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bend 4x4 w/ Sasquatch Package!",
       "vin": "1FMEE7BH4TLB41008",
       "stock": "DT26409",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/a1145702b814.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1589893",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1589893?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,13 +912,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bend 4x4 w/ Sasquatch Package!",
-      "condition": "unknown"
+      "model": "Bronco",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bend 4x4 w/ Black Diamond Package!",
       "vin": "1FMEE7BH0TLB49137",
       "stock": "DT26427",
+      "trim": "Big Bend",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/9418b3639a4e.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1612235",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Bronco/1612235?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -782,13 +930,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bend 4x4 w/ Black Diamond Package!",
-      "condition": "unknown"
+      "model": "Bronco",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expedition Platinum Max w/ Ultimate Package!",
       "vin": "1FMJK1MGXTEA44229",
       "stock": "DT26403",
+      "trim": "Platinum Max",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/2faf4f8fdf67.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Expedition/1579767",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Expedition/1579767?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -797,13 +948,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Expedition Platinum Max w/ Ultimate Package!",
-      "condition": "unknown"
+      "model": "Expedition",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer Active AWD",
       "vin": "1FMUK8DH6TGC18705",
       "stock": "DT26339",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/3529bd36da83.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1556660",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1556660?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -812,13 +966,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer Active AWD",
-      "condition": "unknown"
+      "model": "Explorer",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer Active AWD w/ Comfort Package!",
       "vin": "1FMUK8DH9TGB86736",
       "stock": "DT26436",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/a8db36a17ed4.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1607111",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1607111?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -827,13 +984,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer Active AWD w/ Comfort Package!",
-      "condition": "unknown"
+      "model": "Explorer",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ST AWD",
       "vin": "1FMWK8GC7TGC09813",
       "stock": "DT26361",
+      "trim": "ST",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/9f0f18dad694.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1615452",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1615452?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -842,13 +1002,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer ST AWD",
-      "condition": "unknown"
+      "model": "Explorer",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer St-line",
       "vin": "1FMUK8KHXTGB37807",
       "stock": "DT26448",
+      "trim": "St-line",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/b27bc52616eb.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1616159",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1616159?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -857,13 +1020,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer St-line",
-      "condition": "unknown"
+      "model": "Explorer",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer St-line",
       "vin": "1FMUK8KH1TGA83376",
       "stock": "DT26447",
+      "trim": "St-line",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/f3b0a8e0ed51.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1616160",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1616160?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -872,13 +1038,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer St-line",
-      "condition": "unknown"
+      "model": "Explorer",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer Tremor",
       "vin": "1FMWK8JC4TGC10507",
       "stock": "DT26449",
+      "trim": "Tremor",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/02a3c0a3a310.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1616161",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-Explorer/1616161?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -887,13 +1056,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer Tremor",
-      "condition": "unknown"
+      "model": "Explorer",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Lariat",
       "vin": "1FTFW5L85TKF21957",
       "stock": "DT26424",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/0185470e7f26.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-F-150/1613744",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-F-150/1613744?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -902,13 +1074,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Lariat",
-      "condition": "unknown"
+      "model": "F-150",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLT",
       "vin": "1FTFW3L82TKF21676",
       "stock": "DT26423",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/85a4649bca52.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-F-150/1615453",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-F-150/1615453?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -917,13 +1092,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLT",
-      "condition": "unknown"
+      "model": "F-150",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLT",
       "vin": "1FTFW3L87TKF01942",
       "stock": "DT26408",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/9f5f1cd86b73.html",
       "source_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-F-150/1616964",
       "dealer_url": "https://www.denhamfordbc.com/inventory/New-2026-Ford-F-150/1616964?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -932,8 +1110,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLT",
-      "condition": "unknown"
+      "model": "F-150",
+      "condition": "unknown",
+      "city": "Cranbrook",
+      "province": "BC"
     }
   ]
 }
