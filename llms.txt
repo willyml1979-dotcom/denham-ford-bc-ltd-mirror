@@ -3,7 +3,7 @@
 > Denham Ford (BC) Ltd. is a  dealership in Cranbrook. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/): 60 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/): 65 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
