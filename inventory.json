@@ -1,7 +1,7 @@
 {
   "dealership": "Denham Ford Bc Ltd",
-  "generated_at": "2026-10-25T13:55:11",
-  "vehicle_count": 67,
+  "generated_at": "2026-10-25T14:05:22",
+  "vehicle_count": 68,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -380,14 +380,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks 4x4 w/ Tech Package!",
+      "name": "2026 Ford Bronco Sport Outer Banks 4x4 w/ Tech Package!+ GET 0% UP TO 72 MONTHS!!",
       "vin": "3FMCR9CN4TRE20035",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/e0c67df3c93a.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "unknown",
-      "price": 41828.0,
+      "price": 46578.0,
       "price_currency": "CAD"
     },
     {
@@ -501,36 +501,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Blac Diamond Package!",
+      "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Blac Diamond Package!+ GET 0% UP TO 72 MONTH",
       "vin": "3FMCR9BN5TRE96252",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/74bef0859798.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "unknown",
-      "price": 40223.0,
+      "price": 43973.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Convenience Package!",
+      "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Convenience Package!+ GET 0% UP TO 72 MONTHS",
       "vin": "3FMCR9BN4TRF12926",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/99a0460ba568.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "unknown",
-      "price": 39035.0,
+      "price": 42785.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Convenience Package!",
+      "name": "2026 Ford Bronco Sport Big Bend 4x4 w/ Convenience Package!+ GET 0% UP TO 72 MONTHS",
       "vin": "3FMCR9BN5TRF33316",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/64c1d9a10716.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "unknown",
-      "price": 38921.0,
+      "price": 42671.0,
       "price_currency": "CAD"
     },
     {
@@ -677,36 +677,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 Lariat Supercrew 4x4 w/ Black Appearance Package",
+      "name": "2026 Ford Explorer Platinum AWD w/ Lux Package!",
+      "vin": "1FMUK8HH5TGC34548",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/4cf258e2f13b.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "unknown",
+      "price": 67373.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford F-150 Lariat Supercrew 4x4 w/ Black Appearance Package+ GET 0% UP TO 60 MONTHS!!",
       "vin": "1FTFW5L85TKF21957",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/0185470e7f26.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
       "condition": "unknown",
-      "price": 78019.0,
+      "price": 86019.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT Supercrew 4x4 w/ Black Appearance Package",
+      "name": "2026 Ford F-150 XLT Supercrew 4x4 w/ Black Appearance Package+ GET 0% UP TO 72 MONTHS!!",
       "vin": "1FTFW3L82TKF21676",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/85a4649bca52.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
       "condition": "unknown",
-      "price": 71465.0,
+      "price": 79465.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT Supercrew 4x4 w/ Black Appearance Package!",
+      "name": "2026 Ford F-150 XLT Supercrew 4x4 w/ Black Appearance Package!+ GET 0% UP TO 72 MONTHS!!",
       "vin": "1FTFW3L87TKF01942",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/inventory/9f5f1cd86b73.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
       "condition": "unknown",
-      "price": 72831.0,
+      "price": 80831.0,
       "price_currency": "CAD"
     },
     {
