@@ -1,7 +1,7 @@
 {
   "dealership": "Denham Ford Bc Ltd",
-  "generated_at": "2026-10-25T14:05:22",
-  "vehicle_count": 68,
+  "generated_at": "2026-11-16T17:30:14",
+  "vehicle_count": 73,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -47,17 +47,6 @@
       "model": "Escape",
       "condition": "used",
       "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 XLT Supercrew 4x4 w/ Sport Appearance Package!",
-      "vin": "1FTEW1EP2PKE96417",
-      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/544cf312634b.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 48995.0,
       "price_currency": "CAD"
     },
     {
@@ -149,14 +138,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford F-150 Stx",
+      "name": "2024 Ford F-150 STX Supercrew 4x4",
       "vin": "1FTEW2LP8RKD01819",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/19fae86745d6.html",
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 67510.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -226,6 +215,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Ford Escape Platinum AWD",
+      "vin": "1FMCU9JA7SUB24495",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/c4672ced7769.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Escape Platinum AWD",
+      "vin": "1FMCU9JA5SUB24530",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/4d342c079ae9.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Expedition Active Max",
+      "vin": "1FMJK1J85SEA01672",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/231fbb9e7ead.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition",
+      "condition": "used",
+      "price": 78995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Expedition Platinum Max",
+      "vin": "1FMJK1M85SEA22761",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/1dd8d42d9302.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition",
+      "condition": "used",
+      "price": 84995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Ford Explorer Active AWD w/ Comfort Package!",
       "vin": "1FMUK8DH2SGA22856",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/91406bffdca6.html",
@@ -259,6 +292,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Ford Explorer Active",
+      "vin": "1FMUK8DH7SGA79067",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/3448191962e4.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "used",
+      "price": 47995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Ford F-150 Lariat Supercrew 4x4 w/ Black Appearance Package!",
       "vin": "1FTFW5L83SKE12783",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/54878e41f4ae.html",
@@ -267,6 +311,17 @@
       "model": "F-150",
       "condition": "used",
       "price": 69995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford F-150 Tremor Supercrew 4x4",
+      "vin": "1FTFW4L52SFA84149",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/7cc4383f57e8.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 68995.0,
       "price_currency": "CAD"
     },
     {
@@ -303,25 +358,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue Sv Moonroof",
-      "vin": "JN8BT3BB7SW164320",
-      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/50cab720bad5.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue Sv Moonroof",
+      "name": "2025 Nissan Rogue SV AWD w/ Moonroof",
       "vin": "JN8BT3BB8SW162785",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/778bd0418ab9.html",
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 31995.0,
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Rogue Sv Moonroof",
+      "vin": "JN8BT3BB1SW162806",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/e65bc96b8b57.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -333,17 +388,6 @@
       "model": "Jetta",
       "condition": "used",
       "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Equinox 2LT AWD",
-      "vin": "3GNAXPEG9TL395003",
-      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/be867dbb1631.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -377,6 +421,17 @@
       "model": "F-150",
       "condition": "used",
       "price": 79995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford F-150 Lariat",
+      "vin": "1FTFW5L85TFA59358",
+      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/819bccbfcb59.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 65995.0,
       "price_currency": "CAD"
     },
     {
