@@ -1,7 +1,7 @@
 {
   "dealership": "Denham Ford Bc Ltd",
-  "generated_at": "2026-11-16T17:30:14",
-  "vehicle_count": 73,
+  "generated_at": "2026-11-17T17:38:33",
+  "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -90,18 +90,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Expedition Limited 4x4",
-      "vin": "1FMJU2A80REA42687",
-      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/ae1775476600.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Expedition",
-      "condition": "used",
-      "price": 61995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -171,28 +160,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport Big Bend 4x4 w/ Black Appearance Package! + 3.99% FINANCING",
-      "vin": "3FMCR9BN7SRF20324",
-      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/203d8e521b4f.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Escape ST Line AWD w/ Tech Package + 3.99% FINANCING AVAILABLE!",
-      "vin": "1FMCU9MN1SUA66429",
-      "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/04e881e5058f.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford Escape Platinum AWD + 3.99% FINANCING AVAILABLE!",
       "vin": "1FMCU9JA9SUB24630",
       "url": "https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/22787c6f118a.html",
@@ -211,7 +178,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 35995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
