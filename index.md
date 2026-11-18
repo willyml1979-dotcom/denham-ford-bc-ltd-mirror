@@ -1,6 +1,6 @@
 # Denham Ford (BC) Ltd.
 
- dealership in Cranbrook. AI-readable inventory mirror, about 70 vehicles.
+ dealership in Cranbrook. AI-readable inventory mirror, about 76 vehicles.
 
 - Official website: https://www.denhamfordbc.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/denham-ford-bc-ltd-mirror/used/
